@@ -1,5 +1,3 @@
-package com.aryan;
-
 import java.util.Scanner;
 
 public class Question1_Odd_Even {
