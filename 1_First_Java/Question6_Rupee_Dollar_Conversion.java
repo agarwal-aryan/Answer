@@ -1,5 +1,3 @@
-package com.aryan;
-
 import java.util.Scanner;
 
 public class Question6_Rupee_Dollar_Conversion {
